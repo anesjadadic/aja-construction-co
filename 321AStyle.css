@@ -1,0 +1,28 @@
+body { background-image:url("Caribbean-beach.jpg");
+	background-size: cover;
+     color: #191970;
+     font-family: Arial, Verdana, sans-serif; }
+h1 { background-color: #191970;   
+     color: #E6E6FA;
+     line-height: 200%;
+     font-family: Georgia, "Times New Roman", serif; }
+h2 { background-color: #AEAED4;
+     color: #191970; 
+     text-align: center;
+     font-family:  Georgia, "Times New Roman", serif; }
+p {font-size: .90em; text-indent: 3em; }
+ul {font-weight: bold; }
+
+.redBox {
+	background-color:red;
+	border: dashed blue 2px;
+	font-size: 1.50em;
+	padding: 20px;
+}
+
+#wrapper{
+	width:800px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color: #E6E6FA;
+}
